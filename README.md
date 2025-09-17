@@ -9,7 +9,7 @@ A beautiful and interactive desktop weather application built with Python and Py
   * Minimum and maximum temperatures
   * Weather description
 
-*⚡ Real-time Data: Fetches live data from OpenWeatherMap API
+* ⚡ Real-time Data: Fetches live data from OpenWeatherMap API
 * 🎨 Beautiful UI: Clean and modern interface with weather emojis
 * 🛡️ Error Handling: Comprehensive error handling for various scenarios
 * 📱 Responsive Design: Well-styled interface with appropriate font sizes
