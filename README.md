@@ -13,3 +13,37 @@ A beautiful and interactive desktop weather application built with Python and Py
 * **🎨 Beautiful UI:** Clean and modern interface with weather emojis
 * **🛡️ Error Handling:** Comprehensive error handling for various scenarios
 * **📱 Responsive Design:** Well-styled interface with appropriate font sizes
+
+# 🛠️ Installation
+1. **🧬 Clone the repository:**
+```bash
+git clone https://github.com/Anindya4/Weather-Showing-App.git
+cd Weather-Showing-App
+```
+2. **📋 Install required dependencies:**
+```bash
+pip install -r requirements.txt
+```
+# 🚀 Usage
+1. **Run the application:**
+```python
+python main.py
+```
+2. Enter a city name in the input field.
+3. Click the "Get Weather" button.
+4. View the weather information including temperature, feels-like temperature, and weather conditions.
+
+# 🔑 API Key
+This application uses the OpenWeatherMap API.  
+For production use, consider:
+Getting your own API key from [OpenWeatherMap](https://openweathermap.org/api)  
+Replacing the API key in the code:
+```python
+api_key = "your_api_key_here"
+```
+
+
+
+
+
+
