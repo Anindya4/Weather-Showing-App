@@ -57,7 +57,7 @@ The application handles various error scenarios gracefully:
 * ⏰ Request timeouts
 * 🔄 Too many redirects
 
-***# ⭐ Star this repo if you found it helpful!***
+# ***⭐ Star this repo if you found it helpful!***
 
 
 
