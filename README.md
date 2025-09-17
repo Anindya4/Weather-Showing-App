@@ -41,7 +41,23 @@ Replacing the API key in the code:
 ```python
 api_key = "your_api_key_here"
 ```
+# 🎨 UI Preview
+* The application features:
+* Large, readable fonts
+* Weather condition emojis
+* Centered alignment
+* Custom styling with CSS
+* Responsive layout
 
+# ⚠️ Error Handling
+The application handles various error scenarios gracefully:
+* ❌ Invalid city names
+* 🌐 Network connectivity issues
+* 🔑 API authentication errors
+* ⏰ Request timeouts
+* 🔄 Too many redirects
+
+***# ⭐ Star this repo if you found it helpful!***
 
 
 
