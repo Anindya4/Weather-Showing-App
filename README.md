@@ -1,10 +1,14 @@
-**Instructions to run it properly**:
-1. Install the PyQT package in your system by running the command in terminal: **pip install PyQT5**
+# 🌤️ Weather App
+A beautiful and interactive desktop weather application built with Python and PyQt5. Get real-time weather information for any city around the world with a visually appealing interface!
 
-2. GO TO "https://openweathermap.org/" and create an account to get a free api key.(The api key might take some time to active some time)
-
-3. Please use your own api key that you'll get by creating a new account on openweathermap.
-
-HAPPY CODING..
-
-
+# ✨ Features
+* 🌍 City-based Weather Search: Enter any city name to get current weather data
+* 🌡️ Detailed Weather Information:
+  * Current temperature
+  * Feels-like temperature
+  * Minimum and maximum temperatures
+  * Weather description
+*⚡ Real-time Data: Fetches live data from OpenWeatherMap API
+* 🎨 Beautiful UI: Clean and modern interface with weather emojis
+* 🛡️ Error Handling: Comprehensive error handling for various scenarios
+* 📱 Responsive Design: Well-styled interface with appropriate font sizes
